@@ -2,7 +2,7 @@
         {
          "free": {"version": "0.5.0", "update": "orion_cloud_bot", "telegram": "orionbomber", "channel_id": "-1001762221038", "chat": "https://t.me/+xWLy0dl5IsQ5YzYy", "chat_id": "-1001187921089", "dev": {"lostik": "lolzby", "rizza": "rlzza", "admin": "orion_help"}, "vt": "https://www.virustotal.com/gui/file/af21de5aa526b0e159f7561a0ba973329f0a150b9b5331d71c3af1d6cf94170c?nocache=1"},
          "vip": {"version": "1.1.0", "forced_update": 0, "update": "orion_app_bot", "telegram": "orionbomber", "channel_id": -1001950167702, "chat": "https://t.me/+xWLy0dl5IsQ5YzYy", "chat_id": -1001906100233, "dev": {"lostik": "lolzby", "rizza": "rlzza", "admin": "orion_help"},
-"logo": {"light": "https://i.ibb.co/zP3SRSD/light-logo.png", "dark": "https://i.ibb.co/yPxhDMb/dark-logo.png"}, "debug_password": "35b4045fe503a49af1320f2169f644b8"},
+"logo": {"light": "https://i.ibb.co/zP3SRSD/light-logo.png", "dark": "https://i.ibb.co/yPxhDMb/dark-logo.png"}, "debug_password": "a02a226aaa461eac6c01649c1a93774a"},
          "adv": {"mode": "on",
                  "text": "Надоел слабый спам и хочется что-то мощнее?\nУ нас есть премиум приложение в котором спам мощнее в 5 раз!\nПриобретай уже сейчас!\n\nt.me/orion_app_bot",
                  "bold": 1,
