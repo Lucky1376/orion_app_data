@@ -11,7 +11,7 @@
                  "url": "https://t.me/orion_app_bot?start=adv",
                  "url_image": "https://t.me/orion_adv/5",
                  "image": "https://i.ibb.co/sQqsW0M/Picsart-23-10-14-00-17-54-505.jpg"},
-        "net": {"current": "ip", "domain": "net.orion-cloud.ru", "ip": "185.196.117.73", "port": 13495}
+        "net": {"current": "ip", "domain": "net.orion-cloud.ru", "ip": "185.196.117.73", "port": 13495, "main_domain": "orion-cloud.ru"}
                 },
 "counter": {"plus": "http://a0841499.xsph.ru/tp.php"},
 "vip_users": ["4248a96893397f45a20a973de4c9d771",
