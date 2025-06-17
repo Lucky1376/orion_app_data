@@ -1,7 +1,7 @@
 {"app": 
         {
-         "free": {"version": "0.8.0", "update": "orion_cloud_bot", "telegram": "orionbomber", "channel_id": "-1001762221038", "chat": "https://t.me/+xWLy0dl5IsQ5YzYy", "chat_id": "-1001187921089", "dev": {"lostik": "lolzby", "rizza": "rlzza", "admin": "orion_help"}, "vt": "https://www.virustotal.com/gui/file/af21de5aa526b0e159f7561a0ba973329f0a150b9b5331d71c3af1d6cf94170c?nocache=1"},
-         "vip": {"version": "1.4.1", "forced_update": 0, "update": "orion_app_bot", "telegram": "orionbomber", "channel_id": -1001950167702, "chat": "https://t.me/+xWLy0dl5IsQ5YzYy", "chat_id": -1001906100233, "dev": {"lostik": "lolzby", "rizza": "rlzza", "admin": "orion_help"},
+         "free": {"version": "0.8.0", "update": "cloud_orion_bot", "telegram": "orionbomber", "channel_id": "-1001762221038", "chat": "https://t.me/+xWLy0dl5IsQ5YzYy", "chat_id": "-1001187921089", "dev": {"lostik": "lolzby", "rizza": "rlzza", "admin": "orion_help"}, "vt": "https://www.virustotal.com/gui/file/af21de5aa526b0e159f7561a0ba973329f0a150b9b5331d71c3af1d6cf94170c?nocache=1"},
+         "vip": {"version": "1.4.2", "forced_update": 0, "update": "app_orion_bot", "telegram": "orionbomber", "channel_id": -1001950167702, "chat": "https://t.me/+xWLy0dl5IsQ5YzYy", "chat_id": -1001906100233, "dev": {"lostik": "lolzby", "rizza": "rlzza", "admin": "orion_help"},
 "logo": {"light": "https://i.ibb.co/zP3SRSD/light-logo.png", "dark": "https://i.ibb.co/yPxhDMb/dark-logo.png"}, "debug_password": "e10adc3949ba59abbe56e057f20f883e"},
          "adv": {"mode": "on",
                  "text": "Надоел слабый спам и хочется что-то мощнее?\nУ нас есть премиум приложение в котором спам мощнее в 5 раз!\nПриобретай уже сейчас!\n\nt.me/orion_app_bot",
@@ -9,9 +9,9 @@
                  "text_color": "#a7effe",
                  "board_color": "#004e5b",
                  "url": "https://t.me/orion_app_bot?start=adv",
-                 "url_image": "https://t.me/orion_adv/5",
-                 "image": "https://i.ibb.co/sQqsW0M/Picsart-23-10-14-00-17-54-505.jpg"},
-        "net": {"current": "ip", "domain": "net.orion-cloud.ru", "ip": "185.196.117.73", "port": 13495, "main_domain": "orion-cloud.ru"}
+                 "url_image": "https://t.me/app_orion_bot",
+                 "image": "https://i.ibb.co/7RH7pdK/Picsart-25-01-10-21-34-08-054.png"},
+        "net": {"current": "ip", "domain": "net.orion-cloud.ru", "ip": "gAAAAABoUT8YJkpcg2c5bbneZljCdO4J-kC4YmSh_mrwnj9tZPMpAUmWRyXBRDhxIaRnYH2DfwoNedk2DAh1N69XLoLwTXy12A==", "port": 13495, "main_domain": "orion-cloud.ru"}
                 },
 "counter": {"plus": "http://a0841499.xsph.ru/tp.php"},
 "vip_users": []}
