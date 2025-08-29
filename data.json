@@ -17,7 +17,7 @@
     "vip": {
       "version": "1.4.2",
       "forced_update": 0,
-      "update": "app_orion_bot",
+      "update": "app_orionbot",
       "telegram": "orionbomber",
       "channel_id": -1001950167702,
       "chat": "https://t.me/+xWLy0dl5IsQ5YzYy",
@@ -97,7 +97,7 @@
     "adv": [
         {
             "urlImage": "https://i.ibb.co/7RH7pdK/Picsart-25-01-10-21-34-08-054.png",
-            "urlClick": "https://t.me/app_orion_bot",
+            "urlClick": "https://t.me/app_orionbot",
             "beforeDate": "always"
         },
         {
@@ -110,7 +110,7 @@
   "appVip": {
     "version": "1.4.2",
     "update": {
-        "telegramBot": "app_orion_bot",
+        "telegramBot": "app_orionbot",
         "web": ""
     },
     "vt": ""
