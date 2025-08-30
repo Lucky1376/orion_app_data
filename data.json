@@ -1,7 +1,7 @@
 {
   "app": {
     "free": {
-      "version": "0.8.0",
+      "version": "1.0.0",
       "update": "cloud_orion_bot",
       "telegram": "orionbomber",
       "channel_id": "-1001762221038",
@@ -12,7 +12,7 @@
         "rizza": "rlzza",
         "admin": "orion_help"
       },
-      "vt": "https://www.virustotal.com/gui/file/af21de5aa526b0e159f7561a0ba973329f0a150b9b5331d71c3af1d6cf94170c?nocache=1"
+      "vt": "https://www.virustotal.com/gui/file/783ecebdebb9a4f4be919f0601d528af186220ab58327d141619d032ad2b516d/detection"
     },
     "vip": {
       "version": "1.4.2",
@@ -88,12 +88,12 @@
     }
   },
   "appFree": {
-    "version": "0.8.0",
+    "version": "1.0.0",
     "update": {
         "telegramBot": "cloud_orion_bot",
         "web": "/download/free"
     },
-    "vt": "https://www.virustotal.com/gui/file/af21de5aa526b0e159f7561a0ba973329f0a150b9b5331d71c3af1d6cf94170c?nocache=1",
+    "vt": "https://www.virustotal.com/gui/file/783ecebdebb9a4f4be919f0601d528af186220ab58327d141619d032ad2b516d/detection",
     "adv": [
         {
             "urlImage": "https://i.ibb.co/7RH7pdK/Picsart-25-01-10-21-34-08-054.png",
