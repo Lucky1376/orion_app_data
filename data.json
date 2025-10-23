@@ -85,6 +85,9 @@
         },
         "designer": {
             "rs": ""
+        },
+        "help": {
+          "gwenn": "orion_help"
         }
     }
   },
