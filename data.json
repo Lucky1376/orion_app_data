@@ -59,7 +59,8 @@
     "domain": "orion-cloud.ru",
     "logo": {
         "light": "https://i.ibb.co/zP3SRSD/light-logo.png",
-        "dark": "https://i.ibb.co/yPxhDMb/dark-logo.png"
+        "dark": "https://i.ibb.co/yPxhDMb/dark-logo.png",
+        "web": "https://i.ibb.co/4gKKb4r8/orion-web.png"
     },
     "telegramChannel": {
         "username": "orionbomber",
