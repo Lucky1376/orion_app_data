@@ -1,7 +1,7 @@
 {
   "app": {
     "free": {
-      "version": "1.0.0",
+      "version": "1.1.0",
       "update": "cloud_orion_bot",
       "telegram": "orionbomber",
       "channel_id": "-1001762221038",
