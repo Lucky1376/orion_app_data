@@ -92,12 +92,12 @@
     }
   },
   "appFree": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "update": {
         "telegramBot": "cloud_orion_bot",
         "web": "/download/free"
     },
-    "vt": "https://www.virustotal.com/gui/file/783ecebdebb9a4f4be919f0601d528af186220ab58327d141619d032ad2b516d/detection",
+    "vt": "https://www.virustotal.com/gui/file/57ffdd3db654c5098f15864adf18932cab43940e1dbd1700853caa513e1c48f4?nocache=1",
     "adv": [
         {
             "urlImage": "https://i.ibb.co/7RH7pdK/Picsart-25-01-10-21-34-08-054.png",
