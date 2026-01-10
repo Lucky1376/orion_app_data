@@ -113,6 +113,11 @@
             "urlImage": "https://i.ibb.co/sQqsW0M/Picsart-23-10-14-00-17-54-505.jpg",
             "urlClick": "https://t.me/orion_adv",
             "beforeDate": "always"
+        },
+        {
+            "urlImage": "https://i.ibb.co/HfZqmYcV/image.png",
+            "urlClick": "https://t.me/telescan_stars_bot?start=ref_7080972537",
+            "beforeDate": "always"
         }
     ]
   },
