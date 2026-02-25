@@ -39,9 +39,9 @@
       "bold": 1,
       "text_color": "#a7effe",
       "board_color": "#004e5b",
-      "url": "https://t.me/app_orion_bot?start=adv",
-      "url_image": "https://t.me/app_orion_bot",
-      "image": "https://i.ibb.co/7RH7pdK/Picsart-25-01-10-21-34-08-054.png"
+      "url": "https://t.me/app_orionbot?start=adv",
+      "url_image": "https://t.me/app_orionbot",
+      "image": "https://orion-cloud.ru/app/image/orionPlus-adv-banner.png"
     },
     "net": {
       "current": "ip",
