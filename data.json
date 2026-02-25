@@ -28,8 +28,8 @@
         "admin": "orion_help"
       },
       "logo": {
-        "light": "https://i.ibb.co/zP3SRSD/light-logo.png",
-        "dark": "https://i.ibb.co/yPxhDMb/dark-logo.png"
+        "light": "https://orion-cloud.ru/app/image/orion-logo-light.png",
+        "dark": "https://orion-cloud.ru/app/image/orion-logo-dark.png"
       },
       "debug_password": "e10adc3949ba59abbe56e057f20f883e"
     },
@@ -59,9 +59,9 @@
     "domain": "orion-cloud.ru",
     "rmd": "orion-cloud.ru",
     "logo": {
-        "light": "https://i.ibb.co/zP3SRSD/light-logo.png",
-        "dark": "https://i.ibb.co/yPxhDMb/dark-logo.png",
-        "web": "https://i.ibb.co/4gKKb4r8/orion-web.png"
+        "light": "https://orion-cloud.ru/app/image/orion-logo-light.png",
+        "dark": "https://orion-cloud.ru/app/image/orion-logo-dark.png",
+        "web": "https://orion-cloud.ru/app/image/orion-logo-web.png"
     },
     "telegramChannel": {
         "username": "orionbomber",
@@ -101,17 +101,17 @@
     "vt": "https://www.virustotal.com/gui/file/783ecebdebb9a4f4be919f0601d528af186220ab58327d141619d032ad2b516d/detection",
     "adv": [
         {
-            "urlImage": "https://i.ibb.co/7RH7pdK/Picsart-25-01-10-21-34-08-054.png",
+            "urlImage": "https://orion-cloud.ru/app/image/orionPlus-adv-banner.png",
             "urlClick": "https://t.me/app_orionbot",
             "beforeDate": "always"
         },
         {
-            "urlImage": "https://i.ibb.co/Pv8DLw8h/Picsart-25-09-13-17-38-41-950.png",
+            "urlImage": "https://orion-cloud.ru/app/image/gamma-adv-banner.png",
             "urlClick": "https://t.me/GammaSearchBot",
             "beforeDate": "always"
         },
         {
-            "urlImage": "https://i.ibb.co/sQqsW0M/Picsart-23-10-14-00-17-54-505.jpg",
+            "urlImage": "https://orion-cloud.ru/app/image/getADV-banner.jpg",
             "urlClick": "https://t.me/orion_adv",
             "beforeDate": "always"
         }
