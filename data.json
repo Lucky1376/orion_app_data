@@ -1,7 +1,7 @@
 {
   "app": {
     "free": {
-      "version": "1.1.0",
+      "version": "1.1.1",
       "update": "cloud_orion_bot",
       "telegram": "orionbomber",
       "channel_id": "-1001762221038",
@@ -93,10 +93,10 @@
     }
   },
   "appFree": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "update": {
         "telegramBot": "cloud_orion_bot",
-        "web": "/download/free"
+        "web": "/app/apk_download?version=1.1.1"
     },
     "vt": "https://www.virustotal.com/gui/file/783ecebdebb9a4f4be919f0601d528af186220ab58327d141619d032ad2b516d/detection",
     "adv": [
