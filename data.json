@@ -15,7 +15,7 @@
       "vt": "https://www.virustotal.com/gui/file/783ecebdebb9a4f4be919f0601d528af186220ab58327d141619d032ad2b516d/detection"
     },
     "vip": {
-      "version": "1.4.2",
+      "version": "2.0.0",
       "forced_update": 0,
       "update": "app_orionbot",
       "telegram": "orionbomber",
@@ -118,7 +118,7 @@
     ]
   },
   "appVip": {
-    "version": "1.4.2",
+    "version": "2.0.0",
     "update": {
         "telegramBot": "app_orionbot",
         "web": ""
