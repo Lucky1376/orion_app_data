@@ -61,7 +61,15 @@
     "logo": {
         "light": "https://orion-cloud.ru/app/image/orion-logo-light.png",
         "dark": "https://orion-cloud.ru/app/image/orion-logo-dark.png",
-        "web": "https://orion-cloud.ru/app/image/orion-logo-web.png"
+        "web": "https://orion-cloud.ru/app/image/orion-logo-web.png",
+        "pinkie": "https://orion-cloud.ru/app/image/orion-logo-pinkie.png",
+        "darkpinkie": "https://orion-cloud.ru/app/image/orion-logo-darkpinkie.png",
+        "mint": "https://orion-cloud.ru/app/image/orion-logo-mint.png",
+        "forest": "https://orion-cloud.ru/app/image/orion-logo-forest.png",
+        "graphite": "https://orion-cloud.ru/app/image/orion-logo-graphite.png",
+        "midnight": "https://orion-cloud.ru/app/image/orion-logo-midnight.png",
+        "berry": "https://orion-cloud.ru/app/image/orion-logo-berry.png",
+        "peach": "https://orion-cloud.ru/app/image/orion-logo-peach.png"
     },
     "telegramChannel": {
         "username": "orionbomber",
