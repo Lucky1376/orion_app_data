@@ -70,6 +70,7 @@
         "midnight": "https://orion-cloud.ru/app/image/orion-logo-midnight.png",
         "berry": "https://orion-cloud.ru/app/image/orion-logo-berry.png",
         "peach": "https://orion-cloud.ru/app/image/orion-logo-peach.png"
+        "mocha": "https://orion-cloud.ru/app/image/orion-logo-mocha.png"
     },
     "telegramChannel": {
         "username": "orionbomber",
