@@ -1,7 +1,7 @@
 {
   "app": {
     "free": {
-      "version": "1.2.0",
+      "version": "1.2.1",
       "update": "cloud_orion_bot",
       "telegram": "orionbomber",
       "channel_id": "-1001762221038",
@@ -12,10 +12,10 @@
         "rizza": "rlzza",
         "admin": "orion_help"
       },
-      "vt": "https://www.virustotal.com/gui/file/3bd3ab854924730c86f3ca913b9359ea5c519e2e4fb04f4d2d46f6b62acee419/details"
+      "vt": "https://www.virustotal.com/gui/file/5c42c4a59cbd381df5a2ec35ea1e3bf8434db3dc68a01acb4144a39a78af208f/detection"
     },
     "vip": {
-      "version": "2.1.1",
+      "version": "2.1.2",
       "forced_update": 0,
       "update": "app_orionbot",
       "telegram": "orionbomber",
@@ -122,12 +122,12 @@
     }
   },
   "appFree": {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "update": {
         "telegramBot": "cloud_orion_bot",
         "web": "/app/apk_download?version=1.1.2"
     },
-    "vt": "https://www.virustotal.com/gui/file/3bd3ab854924730c86f3ca913b9359ea5c519e2e4fb04f4d2d46f6b62acee419/details",
+    "vt": "https://www.virustotal.com/gui/file/5c42c4a59cbd381df5a2ec35ea1e3bf8434db3dc68a01acb4144a39a78af208f/detection",
     "adv": [
         {
             "urlImage": "https://orion-cloud.ru/app/image/orionPlus-adv-banner.png",
@@ -147,7 +147,7 @@
     ]
   },
   "appVip": {
-    "version": "2.1.1",
+    "version": "2.1.2",
     "update": {
         "telegramBot": "app_orionbot",
         "web": ""
