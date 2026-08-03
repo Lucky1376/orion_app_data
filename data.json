@@ -125,7 +125,7 @@
     "version": "1.2.1",
     "update": {
         "telegramBot": "cloud_orion_bot",
-        "web": "/app/apk_download?version=1.1.2"
+        "web": "/app/apk_download?version=1.2.1"
     },
     "vt": "https://www.virustotal.com/gui/file/5c42c4a59cbd381df5a2ec35ea1e3bf8434db3dc68a01acb4144a39a78af208f/detection",
     "adv": [
