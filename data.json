@@ -5,7 +5,7 @@
       "update": "cloud_orion_bot",
       "telegram": "orionbomber",
       "channel_id": "-1001762221038",
-      "chat": "https://t.me/+xWLy0dl5IsQ5YzYy",
+      "chat": "https://t.me/+LG98E1SfliI0NWI6",
       "chat_id": "-1001187921089",
       "dev": {
         "lostik": "lolzby",
@@ -20,7 +20,7 @@
       "update": "app_orionbot",
       "telegram": "orionbomber",
       "channel_id": -1001950167702,
-      "chat": "https://t.me/+xWLy0dl5IsQ5YzYy",
+      "chat": "https://t.me/+LG98E1SfliI0NWI6",
       "chat_id": -1001906100233,
       "dev": {
         "lostik": "lolzby",
@@ -97,7 +97,7 @@
         "id": "-1001762221038"
     },
     "telegramChat": {
-        "url": "https://t.me/+xWLy0dl5IsQ5YzYy",
+        "url": "https://t.me/+LG98E1SfliI0NWI6",
         "id": "-1001187921089"
     },
     "contacts": {
