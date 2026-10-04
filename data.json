@@ -48,7 +48,7 @@
       "domain": "net.orion-cloud.ru",
       "ip": "gAAAAABoUT8YJkpcg2c5bbneZljCdO4J-kC4YmSh_mrwnj9tZPMpAUmWRyXBRDhxIaRnYH2DfwoNedk2DAh1N69XLoLwTXy12A==",
       "port": 13495,
-      "main_domain": "orion-cloud.ru"
+      "main_domain": "xorion.me"
     }
   },
   "counter": {
@@ -56,8 +56,8 @@
   },
   "vip_users": [],
   "general": {
-    "domain": "orion-cloud.ru",
-    "rmd": "orion-cloud.ru",
+    "domain": "xorion.me",
+    "rmd": "xorion.me",
     "logo": {
         "light": "https://orion-cloud.ru/app/image/orion-logo-light.png",
         "dark": "https://orion-cloud.ru/app/image/orion-logo-dark.png",
